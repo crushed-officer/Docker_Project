@@ -19,3 +19,9 @@ Project:
      |---init.sql
 
  |---Volumes   
+
+
+Conclusion:
+-Docker containers are very faster to use.
+-Docker helps us to launch a OS in a second.
+-This is a system made up of multiple container and can connect to a network.
